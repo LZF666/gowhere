@@ -1,0 +1,30 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "南山滑雪场",
+    "bannerImg": "https://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_600x330_cbd1e1e9.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_r_800x800_87ef5b1b.jpg", "http://img1.qunarzz.com/sight/p0/201403/07/d7040ce3a5a3a175f13be14ef087de73.jpg_r_800x800_ef06c1df.jpg"],
+    "baseInfo": [{
+      "score": "4.8",
+      "commentDesc": "优秀",
+      "address": "北京市密云县河南寨镇圣水头村"
+    }],
+    "categoryList": [{
+      "title": "成人票",
+      "children": [{
+        "title": "成人三馆联票",
+        "children": [{
+          "title": "成人三馆联票 - 某一连锁店销售"
+        }]
+      }, {
+        "title": "成人五馆联票"
+      }]
+    }, {
+      "title": "学生票"
+    }, {
+      "title": "儿童票"
+    }, {
+      "title": "特惠票"
+    }]
+  }
+}
